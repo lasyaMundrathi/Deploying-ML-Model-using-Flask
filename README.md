@@ -12,10 +12,10 @@ Click the "Predict" button.
 The predicted flower species will be displayed below the form.
 
 #### Input:
-![image]![image](https://github.com/lasyaMundrathi/Deploying-ML-Model-using-Flask/assets/98383338/c241c137-d915-4dc3-90b1-f84b0d079b91)
+![image](https://github.com/lasyaMundrathi/Deploying-ML-Model-using-Flask/assets/98383338/c241c137-d915-4dc3-90b1-f84b0d079b91)
 
 #### Output:
-![image](![image](https://github.com/lasyaMundrathi/Deploying-ML-Model-using-Flask/assets/98383338/e65b34f6-ff1c-4ca3-b3d1-3c2c000809b4)
+![image](https://github.com/lasyaMundrathi/Deploying-ML-Model-using-Flask/assets/98383338/e65b34f6-ff1c-4ca3-b3d1-3c2c000809b4)
 
 ## Installation
 To set up the application on your local machine:
